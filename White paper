@@ -1,0 +1,79 @@
+IRANOIL Token (IROILTOKEN)
+A Utility Token on the TON Blockchain
+Logo: https://i.postimg.cc/bJ7mCD5Z/file-000000000c0c6243b9263765619cddcb-2.png
+Executive Summary
+IRANOIL is a utility token built on the TON blockchain, inspired by the strategic value of crude oil.
+It provides a transparent, fast, and secure foundation for digital transactions, investments, and
+energy-related Web3 projects.
+50% of the total supply (10,000,000,000 tokens) has been distributed across 21 wallet addresses to
+ensure decentralization and transparency.
+The remaining supply will be allocated to DEX liquidity, community incentives, and token burn
+events according to the roadmap.
+Introduction
+IRANOIL aims to create a secure, transparent, and efficient digital token representing value in the
+energy sector.
+It leverages the TON blockchain to enable seamless, low-cost transactions, community governance,
+and future integration with global trade and financial ecosystems.
+Problem Statement
+The current energy and digital asset landscape faces several challenges:
+- Slow and opaque transactions
+- Lack of decentralization in token distribution
+- Limited integration with emerging Web3 services
+IRANOIL addresses these issues by offering a fully transparent and secure token with predictable
+supply and clear allocation.
+The Solution
+IRANOIL offers:
+- Transparent and Secure Transactions
+- Fast and Cost-Effective Transfers
+- DEX and Community Integration
+Tokenomics
+- Token Name: IRANOIL
+- Symbol: IROILTOKEN
+- Decimals: 9
+- Total Supply: 20,000,000,000
+- Contract Address: EQBUTf9DfUKJZTxOtU4qBj-r82M-Tpx85MsWl2cyzo7EF5Ed
+- Distribution:
+ - 50% (10,000,000,000) across 21 wallets
+ - Remaining: DEX liquidity, community incentives, token burns
+Metadata JSON:
+https://raw.githubusercontent.com/IRANOILtoken/iranoil.github.io/42ec48b5964501ac5bf35a6b68c7
+dac25f2870b1/metadata.json
+Use Cases
+- Peer-to-peer digital transactions
+- Community incentives and rewards
+- Energy-related payments
+- Integration with Web3 services
+Roadmap
+Phase 0 - Launch: Deploy Jetton contract, publish metadata on GitHub, list in TON wallets, provide
+initial DEX liquidity
+Phase 1 - Accessibility: List on major TON DEX platforms, activate community channels, attract
+early holders, run AMA sessions
+Phase 2 - Adoption: Partner with Web3 projects, integrate IRANOIL into small services, build simple
+payment tools
+Phase 3 - Expansion: Strengthen liquidity, apply for CEX listings once the community is strong,
+complete smart contract audits
+Full roadmap details:
+https://raw.githubusercontent.com/IRANOILtoken/iranoil.github.io/main/ROADMAP.HTML
+Team & Advisors
+- B.s - Digital Assets Specialist & Project Manager
+- P.s - Senior Expert in Marketing & Global Trade
+- N.s - Senior Expert in International Insurance
+- N.p - Senior Expert in Accounting & Finance
+- H.p - Senior Expert in International Law
+- A.s - Senior Marketing Specialist
+- B.s2 - Project Program Manager
+- F.s - Public Relations Manager
+Security & Audits
+The IRANOIL smart contract is deployed on the TON blockchain following best security practices.
+Audits are planned to ensure transparency, prevent vulnerabilities, and build trust within the
+community.
+Legal Disclaimer
+This White Paper is for informational purposes only.
+IRANOIL tokens are not financial advice, and all investments carry risk.
+Users should perform their own due diligence before engaging with the token.
+Contact & Socials
+- Telegram: https://t.me/IRANOILofficial
+- Instagram: https://www.instagram.com/iranoiltoken
+- Twitter/X: https://x.com/Iranoiltoken
+- GitHub: https://github.com/IRANOILtoken
+- Email: IRANOILTOKEN@gmail.com
